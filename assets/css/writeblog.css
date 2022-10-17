@@ -169,7 +169,7 @@ img#write-blog-image {
 @media (max-width: 430px){
     textarea.blog-content {
         width: 350px;
-        height: 370px;
+        height: 400px;
     }
     #cover-image{
         width: 350px;
