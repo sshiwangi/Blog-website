@@ -2,7 +2,7 @@
 
 ## About
 
-A simple blog website built using HTML, CSS and javascript having two pages, a landing page and a blog writing page. Clicking on "start writing" will lead the user to the 2nd page.
+A simple blog website built using HTML, CSS and javascript having two pages, a landing page and a blog writing page. Clicking on "start writing" will take the user to the 2nd page.
 
 ## Screenshots
 
